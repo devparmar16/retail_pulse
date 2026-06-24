@@ -1,0 +1,3 @@
+test,statistic,p_value,interpretation
+ADF,-0.99307164028736,0.7557828658169337,Non-stationary
+KPSS,2.7698337547083645,0.01,Non-stationary

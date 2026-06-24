@@ -1,0 +1,14 @@
+feature,importance
+m_score,0.689864
+total_quantity,0.08195747
+rfm_score,0.050177846
+avg_order_value,0.027855068
+product_diversity_ratio,0.026679747
+frequency,0.026029339
+unique_products,0.025099378
+f_score,0.013581987
+customer_lifetime_days,0.013424602
+avg_quantity_per_order,0.01331466
+purchase_frequency_per_month,0.011119792
+recency,0.0104803145
+r_score,0.010415801

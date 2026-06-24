@@ -1,0 +1,151 @@
+InvoiceNo,StockCode,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Description
+C582495,22197,-5,2026-04-13 00:00:00,7.64,10021,Spain,popcorn holder
+C584304,85099B,-4,2026-04-03 00:00:00,6.17,10019,France,jumbo bag red retrospot
+C584763,71053,-2,2026-01-15 00:00:00,11.47,10022,Spain,white metal lantern
+C586232,85099B,-20,2026-04-17 00:00:00,2.72,10015,France,jumbo bag red retrospot
+C582853,84406B,-10,2026-03-13 00:00:00,6.92,10014,Germany,cream cupid hearts coat hanger
+587585,71053,19,2026-01-21 00:00:00,1.62,10015,Germany,white metal lantern
+582291,71053,1,2026-04-13 00:00:00,6.66,10010,United Kingdom,white metal lantern
+584581,71053,5,2026-05-02 00:00:00,2.12,10014,Germany,white metal lantern
+588554,85123A,13,2026-03-16 00:00:00,2.81,10018,Spain,white hanging heart t-light holder
+588280,85123A,4,2026-03-29 00:00:00,2.79,10021,Germany,white hanging heart t-light holder
+582636,85123A,16,2026-04-27 00:00:00,8.64,10019,France,white hanging heart t-light holder
+584696,84406B,16,2026-04-10 00:00:00,9.71,10023,Germany,cream cupid hearts coat hanger
+581698,22197,23,2026-04-14 00:00:00,7.92,10011,United Kingdom,popcorn holder
+585737,85099B,2,2026-05-11 00:00:00,12.08,10010,Germany,jumbo bag red retrospot
+581854,22720,17,2026-05-30 00:00:00,5.62,10023,France,regency cakestand 3 tier
+589164,71053,20,2026-02-22 00:00:00,4.64,10019,France,white metal lantern
+586855,85099B,12,2026-01-02 00:00:00,11.05,10022,Spain,jumbo bag red retrospot
+588392,71053,18,2026-03-29 00:00:00,3.96,10020,Germany,white metal lantern
+587528,84406B,3,2026-02-07 00:00:00,12.1,10018,France,cream cupid hearts coat hanger
+586249,71053,1,2026-05-10 00:00:00,1.63,10019,United Kingdom,white metal lantern
+586172,85123A,1,2026-01-21 00:00:00,12.17,10018,Spain,white hanging heart t-light holder
+582707,22720,19,2026-02-27 00:00:00,1.97,10024,United Kingdom,regency cakestand 3 tier
+586791,84029G,11,2026-01-22 00:00:00,11.3,10018,Germany,knitted union flag hot water bottle
+586535,71053,5,2026-03-30 00:00:00,7.3,10015,Germany,white metal lantern
+585931,85099B,12,2026-02-18 00:00:00,12.42,10024,Germany,jumbo bag red retrospot
+584510,85123A,3,2026-02-28 00:00:00,2.31,10017,Spain,white hanging heart t-light holder
+581202,84029G,1,2026-01-15 00:00:00,7.59,10023,France,knitted union flag hot water bottle
+585218,22720,1,2026-02-20 00:00:00,12.16,10020,Spain,regency cakestand 3 tier
+589958,84029G,8,2026-04-18 00:00:00,7.25,10024,United Kingdom,knitted union flag hot water bottle
+585389,85123A,10,2026-02-24 00:00:00,8.42,10022,Spain,white hanging heart t-light holder
+583327,22197,11,2026-03-05 00:00:00,9.15,10010,United Kingdom,popcorn holder
+589004,22197,12,2026-05-11 00:00:00,6.5,10019,Spain,popcorn holder
+583931,84029G,13,2026-02-20 00:00:00,8.4,10013,France,knitted union flag hot water bottle
+588777,84406B,12,2026-05-15 00:00:00,7.93,10010,United Kingdom,cream cupid hearts coat hanger
+581197,85099B,14,2026-01-21 00:00:00,11.41,10017,Germany,jumbo bag red retrospot
+588125,85099B,2,2026-03-14 00:00:00,2.0,10010,Germany,jumbo bag red retrospot
+582930,84029G,19,2026-01-18 00:00:00,4.59,10012,Spain,knitted union flag hot water bottle
+587287,71053,18,2026-05-12 00:00:00,11.95,10022,Germany,white metal lantern
+589800,71053,3,2026-03-30 00:00:00,11.29,10013,United Kingdom,white metal lantern
+585282,85099B,23,2026-03-01 00:00:00,6.51,10024,Germany,jumbo bag red retrospot
+583511,85099B,17,2026-01-14 00:00:00,8.32,10024,France,jumbo bag red retrospot
+581659,22197,8,2026-01-09 00:00:00,4.55,10024,France,popcorn holder
+583811,84406B,10,2026-03-31 00:00:00,3.57,10017,Spain,cream cupid hearts coat hanger
+588098,85123A,2,2026-02-22 00:00:00,6.6,10015,United Kingdom,white hanging heart t-light holder
+587546,71053,19,2026-05-10 00:00:00,5.39,10023,France,white metal lantern
+582986,85099B,9,2026-03-25 00:00:00,7.92,10019,France,jumbo bag red retrospot
+589338,22197,7,2026-04-02 00:00:00,2.36,10021,United Kingdom,popcorn holder
+583911,22720,4,2026-04-21 00:00:00,12.22,10016,Germany,regency cakestand 3 tier
+582734,22197,21,2026-01-08 00:00:00,12.35,10023,Germany,popcorn holder
+582843,71053,18,2026-02-04 00:00:00,9.18,10017,Spain,white metal lantern
+589680,71053,13,2026-03-22 00:00:00,7.4,10011,Germany,white metal lantern
+583976,22197,11,2026-02-19 00:00:00,4.9,10022,United Kingdom,popcorn holder
+582959,85123A,4,2026-04-14 00:00:00,10.45,10019,France,white hanging heart t-light holder
+586759,84029G,21,2026-05-12 00:00:00,9.03,10023,Germany,knitted union flag hot water bottle
+587694,71053,4,2026-01-02 00:00:00,3.29,10020,Spain,white metal lantern
+583385,22197,10,2026-05-14 00:00:00,11.52,10017,Germany,popcorn holder
+585736,85099B,5,2026-02-23 00:00:00,10.55,10012,United Kingdom,jumbo bag red retrospot
+582802,22197,9,2026-04-16 00:00:00,11.95,10016,Spain,popcorn holder
+589155,84406B,3,2026-01-04 00:00:00,9.48,10012,Germany,cream cupid hearts coat hanger
+589120,84029G,17,2026-02-23 00:00:00,8.25,10024,Spain,knitted union flag hot water bottle
+587616,22720,3,2026-05-26 00:00:00,6.1,10016,United Kingdom,regency cakestand 3 tier
+586534,85123A,16,2026-02-13 00:00:00,11.76,10023,France,white hanging heart t-light holder
+585061,22720,4,2026-01-14 00:00:00,11.03,10020,United Kingdom,regency cakestand 3 tier
+581262,84029G,18,2026-04-05 00:00:00,2.0,10024,United Kingdom,knitted union flag hot water bottle
+587287,84029G,17,2026-02-17 00:00:00,1.79,10021,United Kingdom,knitted union flag hot water bottle
+589815,84029G,7,2026-01-15 00:00:00,5.64,10022,United Kingdom,knitted union flag hot water bottle
+583049,22720,23,2026-02-09 00:00:00,10.42,10011,France,regency cakestand 3 tier
+586423,85099B,5,2026-03-23 00:00:00,12.36,10019,France,jumbo bag red retrospot
+585548,84029G,12,2026-04-21 00:00:00,3.15,10015,Spain,knitted union flag hot water bottle
+584108,22197,17,2026-02-22 00:00:00,8.04,10012,Germany,popcorn holder
+588158,22720,23,2026-01-24 00:00:00,5.69,10012,France,regency cakestand 3 tier
+588400,84029G,13,2026-05-04 00:00:00,12.17,10024,France,knitted union flag hot water bottle
+584170,22197,23,2026-02-10 00:00:00,10.76,10018,Germany,popcorn holder
+583255,85099B,3,2026-01-15 00:00:00,10.72,10016,France,jumbo bag red retrospot
+582154,84406B,9,2026-02-14 00:00:00,6.66,10014,United Kingdom,cream cupid hearts coat hanger
+585499,85099B,17,2026-03-06 00:00:00,6.06,10021,United Kingdom,jumbo bag red retrospot
+587295,84029G,17,2026-03-30 00:00:00,4.51,10019,Germany,knitted union flag hot water bottle
+587197,22720,20,2026-03-12 00:00:00,2.12,10016,Spain,regency cakestand 3 tier
+582648,71053,16,2026-01-09 00:00:00,11.01,10018,Spain,white metal lantern
+586539,84029G,22,2026-03-29 00:00:00,10.44,10010,Germany,knitted union flag hot water bottle
+585199,71053,13,2026-05-09 00:00:00,12.5,10016,Germany,white metal lantern
+589445,22197,19,2026-05-16 00:00:00,12.46,10015,United Kingdom,popcorn holder
+583557,84406B,17,2026-03-04 00:00:00,7.61,10019,Spain,cream cupid hearts coat hanger
+586592,85123A,4,2026-05-19 00:00:00,9.96,10023,France,white hanging heart t-light holder
+581098,85099B,12,2026-03-22 00:00:00,11.89,10021,United Kingdom,jumbo bag red retrospot
+583200,84406B,9,2026-05-16 00:00:00,10.85,10018,Germany,cream cupid hearts coat hanger
+583961,84029G,19,2026-02-02 00:00:00,4.22,10010,Spain,knitted union flag hot water bottle
+585973,71053,12,2026-05-03 00:00:00,6.46,10022,France,white metal lantern
+585433,85099B,9,2026-01-05 00:00:00,2.92,10013,France,jumbo bag red retrospot
+583869,71053,7,2026-02-10 00:00:00,11.99,10018,United Kingdom,white metal lantern
+581956,22720,14,2026-01-28 00:00:00,8.17,10013,Spain,regency cakestand 3 tier
+589352,71053,20,2026-05-15 00:00:00,4.02,10019,Spain,white metal lantern
+586699,22720,19,2026-03-13 00:00:00,8.89,10012,Germany,regency cakestand 3 tier
+587944,22197,15,2026-01-12 00:00:00,8.3,10018,Spain,popcorn holder
+585493,85099B,16,2026-02-02 00:00:00,5.44,10022,Spain,jumbo bag red retrospot
+585911,85099B,21,2026-02-17 00:00:00,2.75,10011,United Kingdom,jumbo bag red retrospot
+584987,85123A,5,2026-03-03 00:00:00,8.89,10024,Spain,white hanging heart t-light holder
+587015,84029G,3,2026-02-06 00:00:00,7.22,10013,France,knitted union flag hot water bottle
+582218,22720,12,2026-04-09 00:00:00,10.0,10024,United Kingdom,regency cakestand 3 tier
+585496,85123A,20,2026-04-14 00:00:00,7.22,10015,United Kingdom,white hanging heart t-light holder
+585735,71053,21,2026-02-04 00:00:00,10.87,10011,Germany,white metal lantern
+585555,71053,4,2026-04-11 00:00:00,7.57,10024,Spain,white metal lantern
+589050,85123A,21,2026-05-11 00:00:00,7.67,10017,Germany,white hanging heart t-light holder
+584446,85099B,23,2026-01-01 00:00:00,11.14,10017,France,jumbo bag red retrospot
+582045,71053,16,2026-01-05 00:00:00,5.94,10010,United Kingdom,white metal lantern
+587893,22197,7,2026-05-22 00:00:00,2.97,10021,United Kingdom,popcorn holder
+582693,22197,13,2026-04-13 00:00:00,1.82,10012,United Kingdom,popcorn holder
+584436,85123A,21,2026-01-27 00:00:00,9.81,10019,France,white hanging heart t-light holder
+589754,22720,10,2026-05-17 00:00:00,8.32,10018,France,regency cakestand 3 tier
+586895,22720,7,2026-01-15 00:00:00,9.24,10014,Germany,regency cakestand 3 tier
+584354,85123A,14,2026-03-31 00:00:00,3.84,10015,Germany,white hanging heart t-light holder
+581225,22720,5,2026-02-11 00:00:00,3.0,10013,Germany,regency cakestand 3 tier
+585893,85099B,3,2026-05-04 00:00:00,1.66,10019,Spain,jumbo bag red retrospot
+588022,85099B,23,2026-03-04 00:00:00,5.36,10011,United Kingdom,jumbo bag red retrospot
+586600,22720,11,2026-04-06 00:00:00,7.99,10020,United Kingdom,regency cakestand 3 tier
+588996,22197,11,2026-02-21 00:00:00,5.81,10017,Germany,popcorn holder
+588683,22720,18,2026-04-06 00:00:00,6.31,10020,United Kingdom,regency cakestand 3 tier
+585642,85099B,15,2026-05-12 00:00:00,11.45,10022,Germany,jumbo bag red retrospot
+588679,84406B,12,2026-05-23 00:00:00,5.33,10015,Spain,cream cupid hearts coat hanger
+589208,84029G,9,2026-01-29 00:00:00,7.15,10014,Spain,knitted union flag hot water bottle
+588339,71053,10,2026-02-05 00:00:00,10.12,10018,France,white metal lantern
+583205,84406B,12,2026-01-13 00:00:00,5.86,10010,Spain,cream cupid hearts coat hanger
+582069,22720,17,2026-03-12 00:00:00,8.34,10014,Germany,regency cakestand 3 tier
+584444,22197,6,2026-03-27 00:00:00,10.99,10015,Spain,popcorn holder
+582060,85123A,7,2026-01-28 00:00:00,11.94,10014,France,white hanging heart t-light holder
+583327,22720,14,2026-03-07 00:00:00,3.12,10015,United Kingdom,regency cakestand 3 tier
+584420,22197,13,2026-02-14 00:00:00,11.69,10015,Germany,popcorn holder
+581301,84029G,8,2026-03-03 00:00:00,6.91,10016,United Kingdom,knitted union flag hot water bottle
+581606,22720,10,2026-05-14 00:00:00,4.34,10013,France,regency cakestand 3 tier
+584170,85099B,9,2026-01-28 00:00:00,6.55,10023,France,jumbo bag red retrospot
+581699,85123A,18,2026-01-28 00:00:00,12.28,10020,France,white hanging heart t-light holder
+586088,22197,2,2026-04-18 00:00:00,6.92,10023,United Kingdom,popcorn holder
+581190,22197,5,2026-02-13 00:00:00,5.12,10023,United Kingdom,popcorn holder
+581980,22197,5,2026-03-25 00:00:00,8.47,10023,United Kingdom,popcorn holder
+583975,84029G,6,2026-01-30 00:00:00,4.14,10024,United Kingdom,knitted union flag hot water bottle
+587102,22720,19,2026-03-16 00:00:00,2.33,10017,France,regency cakestand 3 tier
+582184,84029G,8,2026-05-08 00:00:00,2.92,10016,France,knitted union flag hot water bottle
+584327,71053,16,2026-04-02 00:00:00,2.91,10018,Germany,white metal lantern
+584394,71053,13,2026-05-09 00:00:00,3.17,10016,Germany,white metal lantern
+589319,22720,1,2026-05-01 00:00:00,3.03,10012,United Kingdom,regency cakestand 3 tier
+582816,85099B,22,2026-01-27 00:00:00,8.55,10012,Spain,jumbo bag red retrospot
+586854,84029G,20,2026-05-01 00:00:00,3.5,10024,Spain,knitted union flag hot water bottle
+587709,85123A,17,2026-04-26 00:00:00,5.3,10017,France,white hanging heart t-light holder
+581569,22197,7,2026-01-03 00:00:00,11.36,10014,France,popcorn holder
+586442,22197,13,2026-04-13 00:00:00,6.71,10013,France,popcorn holder
+582895,22720,4,2026-05-17 00:00:00,8.84,10017,Germany,regency cakestand 3 tier
+583733,85099B,4,2026-03-03 00:00:00,3.4,10024,Germany,jumbo bag red retrospot
+584863,71053,6,2026-02-20 00:00:00,3.62,10015,France,white metal lantern
+588455,71053,19,2026-02-28 00:00:00,1.95,10011,France,white metal lantern
+585014,22197,12,2026-04-28 00:00:00,3.36,10013,France,popcorn holder

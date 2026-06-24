@@ -1,0 +1,3 @@
+approach,input_type,best_for,strength,limitation
+Market Basket Analysis / Apriori,Invoice-level product baskets,Product bundle and cross-sell recommendations,"Easy to interpret using support, confidence, and lift",Not personalized to individual customers
+Collaborative Filtering,Customer-product purchase matrix,Personalized customer-level recommendations,Personalized based on similar customer behavior,Can struggle with new customers or sparse purchase history

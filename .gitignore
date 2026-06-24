@@ -1,0 +1,39 @@
+# Virtual environment
+zidio_env/
+env/
+venv/
+ENV/
+.env
+
+# Ignore extremely large processed datasets
+notebooks/data/processed/recommendation_customer_similarity_matrix.csv
+notebooks/data/processed/sales_features.csv
+notebooks/data/processed/cleaned_online_retail_with_skew_features.csv
+notebooks/data/processed/cleaned_online_retail_all_sales.csv
+notebooks/data/processed/cleaned_online_retail_customer_sales.csv
+notebooks/data/processed/customer_sales_for_feature_engineering.csv
+
+# Python caching & build artifacts
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MLflow Tracking database and runs
+mlruns/
+mlflow.db
+mlflow.db-journal
+
+# Streamlit config/secrets
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db

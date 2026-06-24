@@ -1,0 +1,15 @@
+feature,importance
+total_orders,0.40707996
+unique_products,0.10909656
+unique_customers,0.10442791
+rolling_mean_30,0.06642542
+day_of_week,0.052511986
+lag_7,0.04888787
+day,0.04247842
+lag_30,0.04022971
+lag_1,0.035093546
+lag_14,0.025909638
+rolling_mean_7,0.024126794
+rolling_mean_14,0.02204406
+month,0.015562921
+is_weekend,0.006125284

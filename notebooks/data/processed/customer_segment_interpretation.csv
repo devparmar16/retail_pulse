@@ -1,0 +1,7 @@
+business_segment,interpretation,business_action
+Elite VIP Customers,"Very small group with extremely high frequency, revenue, and product diversity.","Offer exclusive loyalty benefits, early access, and personalized account management."
+Extreme Bulk Buyers,Rare customers with unusually large one-time bulk purchases.,Monitor separately as outliers; avoid letting them distort normal customer trends.
+Loyal High-Value Customers,Frequent and recent customers with strong monetary value.,"Upsell, cross-sell, and provide loyalty rewards."
+Regular Active Customers,Main customer base with moderate frequency and recent activity.,Encourage repeat purchases through targeted campaigns.
+New / One-Time Customers,Customers with only one purchase but relatively recent activity.,Send onboarding offers and second-purchase discounts.
+Dormant Low-Value Customers,Inactive customers with low frequency and low monetary contribution.,Run win-back campaigns or reduce marketing spend if unresponsive.

@@ -1,0 +1,17 @@
+feature,importance
+customer_lifetime_days,0.46644154
+total_quantity,0.095797084
+unique_products,0.08668746
+f_score,0.07178285
+frequency,0.06348865
+purchase_frequency_per_month,0.04689773
+avg_quantity_per_order,0.043434754
+monetary_per_order,0.04286513
+monetary_capped,0.042238675
+avg_order_value,0.04036608
+product_diversity_ratio,0.0
+m_score,0.0
+is_one_time_customer,0.0
+is_low_value,0.0
+is_high_value,0.0
+short_lifetime_customer,0.0

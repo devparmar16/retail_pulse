@@ -1,0 +1,3 @@
+method,purpose,result,final_decision
+K-Means,Primary customer segmentation,Created 6 meaningful business segments,Selected for dashboard segmentation
+DBSCAN,Outlier and density-based customer detection,Detected majority customers and small high-value/outlier groups,Used as supporting analysis only
