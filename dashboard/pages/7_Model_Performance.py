@@ -13,15 +13,17 @@ st.markdown("""
 Centralized evaluation of all machine learning modules.
 """)
 
+from utils.load_data import resolve_path
+
 # ==================================
 # LOAD FILES
 # ==================================
-churn_df = pd.read_csv("../notebooks/data/processed/churn_model_comparison.csv")
-clv_df = pd.read_csv("../notebooks/data/processed/clv_model_comparison.csv")
-forecast_df = pd.read_csv("../notebooks/data/processed/demand_forecast_model_comparison.csv")
-rules_df = pd.read_csv("../notebooks/data/processed/recommendation_association_rules.csv")
-inventory_df = pd.read_csv("../notebooks/data/processed/inventory_optimization_results.csv")
-segments_df = pd.read_csv("../notebooks/data/processed/customer_segments.csv")
+churn_df = pd.read_csv(resolve_path("../notebooks/data/processed/churn_model_comparison.csv"))
+clv_df = pd.read_csv(resolve_path("../notebooks/data/processed/clv_model_comparison.csv"))
+forecast_df = pd.read_csv(resolve_path("../notebooks/data/processed/demand_forecast_model_comparison.csv"))
+rules_df = pd.read_csv(resolve_path("../notebooks/data/processed/recommendation_association_rules.csv"))
+inventory_df = pd.read_csv(resolve_path("../notebooks/data/processed/inventory_optimization_results.csv"))
+segments_df = pd.read_csv(resolve_path("../notebooks/data/processed/customer_segments.csv"))
 
 # ==================================
 # EXECUTIVE KPI
@@ -35,7 +37,7 @@ col2.metric("Recommendation Rules", f"{len(rules_df):,}")
 col3.metric("Inventory Products", f"{len(inventory_df):,}")
 col4.metric(
     "Forecast Records",
-    f"{len(pd.read_csv('../notebooks/data/processed/demand_forecast_results.csv')):,}"
+    f"{len(pd.read_csv(resolve_path('../notebooks/data/processed/demand_forecast_results.csv'))):,}"
 )
 
 # ==================================
@@ -119,11 +121,11 @@ col1, col2, col3 = st.columns(3)
 col1.metric("Association Rules", len(rules_df))
 col2.metric(
     "Strong Rules",
-    len(pd.read_csv("../notebooks/data/processed/recommendation_strong_rules.csv"))
+    len(pd.read_csv(resolve_path("../notebooks/data/processed/recommendation_strong_rules.csv")))
 )
 col3.metric(
     "Frequent Itemsets",
-    len(pd.read_csv("../notebooks/data/processed/recommendation_frequent_itemsets.csv"))
+    len(pd.read_csv(resolve_path("../notebooks/data/processed/recommendation_frequent_itemsets.csv")))
 )
 
 # ==================================

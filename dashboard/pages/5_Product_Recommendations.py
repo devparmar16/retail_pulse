@@ -8,25 +8,24 @@ st.set_page_config(
     layout="wide"
 )
 
-# ----------------------------------
-# LOAD DATA
-# ----------------------------------
+from utils.load_data import resolve_path
 
 rules_df = pd.read_csv(
-    "../notebooks/data/processed/recommendation_association_rules.csv"
+    resolve_path("../notebooks/data/processed/recommendation_association_rules.csv")
 )
 
 strong_rules_df = pd.read_csv(
-    "../notebooks/data/processed/recommendation_strong_rules.csv"
+    resolve_path("../notebooks/data/processed/recommendation_strong_rules.csv")
 )
 
 comparison_df = pd.read_csv(
-    "../notebooks/data/processed/recommendation_approach_comparison.csv"
+    resolve_path("../notebooks/data/processed/recommendation_approach_comparison.csv")
 )
 
 itemsets_df = pd.read_csv(
-    "../notebooks/data/processed/recommendation_frequent_itemsets.csv"
+    resolve_path("../notebooks/data/processed/recommendation_frequent_itemsets.csv")
 )
+
 
 # ----------------------------------
 # TITLE

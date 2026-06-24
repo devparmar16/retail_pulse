@@ -8,21 +8,20 @@ st.set_page_config(
     layout="wide"
 )
 
-# -----------------------------------
-# LOAD DATA
-# -----------------------------------
+from utils.load_data import resolve_path
 
 churn_df = pd.read_csv(
-    "../notebooks/data/processed/churn_prediction_results.csv"
+    resolve_path("../notebooks/data/processed/churn_prediction_results.csv")
 )
 
 feature_df = pd.read_csv(
-    "../notebooks/data/processed/churn_feature_importance.csv"
+    resolve_path("../notebooks/data/processed/churn_feature_importance.csv")
 )
 
 comparison_df = pd.read_csv(
-    "../notebooks/data/processed/churn_model_comparison.csv"
+    resolve_path("../notebooks/data/processed/churn_model_comparison.csv")
 )
+
 
 # -----------------------------------
 # TITLE

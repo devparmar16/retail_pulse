@@ -6,13 +6,13 @@ from sklearn.metrics import accuracy_score
 
 st.set_page_config(page_title="Customer Lifetime Value", page_icon="💎", layout="wide")
 
-# ----------------------------------
-# LOAD DATA
-# ----------------------------------
-clv_pred = pd.read_csv("../notebooks/data/processed/clv_predictions.csv")
-feature_df = pd.read_csv("../notebooks/data/processed/clv_feature_importance.csv")
-comparison_df = pd.read_csv("../notebooks/data/processed/clv_model_comparison.csv")
-classification_df = pd.read_csv("../notebooks/data/processed/clv_classification_results.csv")
+from utils.load_data import resolve_path
+
+clv_pred = pd.read_csv(resolve_path("../notebooks/data/processed/clv_predictions.csv"))
+feature_df = pd.read_csv(resolve_path("../notebooks/data/processed/clv_feature_importance.csv"))
+comparison_df = pd.read_csv(resolve_path("../notebooks/data/processed/clv_model_comparison.csv"))
+classification_df = pd.read_csv(resolve_path("../notebooks/data/processed/clv_classification_results.csv"))
+
 
 # Fix target mismatch if 'actual_category' was saved as continuous log values
 if classification_df["actual_category"].dtype in [np.float64, np.float32]:

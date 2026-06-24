@@ -8,13 +8,12 @@ st.set_page_config(
     layout="wide"
 )
 
-# ----------------------------------
-# LOAD DATA
-# ----------------------------------
+from utils.load_data import resolve_path
 
 inventory_df = pd.read_csv(
-    "../notebooks/data/processed/inventory_optimization_results.csv"
+    resolve_path("../notebooks/data/processed/inventory_optimization_results.csv")
 )
+
 
 # ----------------------------------
 # TITLE

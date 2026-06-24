@@ -42,15 +42,19 @@ if uploaded_file is not None:
 
 elif "sales_df" not in st.session_state:
     # Baseline historical file fallback if session state is empty
-    st.session_state["sales_df"] = pd.read_csv("../notebooks/data/processed/cleaned_online_retail_all_sales.csv")
+    from utils.load_data import resolve_path
+    st.session_state["sales_df"] = pd.read_csv(resolve_path("../notebooks/data/processed/cleaned_online_retail_all_sales.csv"))
+
 
 # Bind current view data reference to active session state pool
 sales_df = st.session_state["sales_df"]
 
 # Load secondary analytical modeling metrics
-rfm_df = pd.read_csv("../notebooks/data/processed/customer_rfm_features.csv")
-segment_df = pd.read_csv("../notebooks/data/processed/customer_segments.csv")
-monthly_sales = pd.read_csv("../notebooks/data/processed/eda_monthly_sales.csv")
+from utils.load_data import resolve_path
+rfm_df = pd.read_csv(resolve_path("../notebooks/data/processed/customer_rfm_features.csv"))
+segment_df = pd.read_csv(resolve_path("../notebooks/data/processed/customer_segments.csv"))
+monthly_sales = pd.read_csv(resolve_path("../notebooks/data/processed/eda_monthly_sales.csv"))
+
 
 # -----------------------------
 # TITLE

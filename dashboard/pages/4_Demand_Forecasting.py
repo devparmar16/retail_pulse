@@ -8,21 +8,20 @@ st.set_page_config(
     layout="wide"
 )
 
-# ----------------------------------
-# LOAD DATA
-# ----------------------------------
+from utils.load_data import resolve_path
 
 forecast_df = pd.read_csv(
-    "../notebooks/data/processed/demand_forecast_results.csv"
+    resolve_path("../notebooks/data/processed/demand_forecast_results.csv")
 )
 
 comparison_df = pd.read_csv(
-    "../notebooks/data/processed/demand_forecast_model_comparison.csv"
+    resolve_path("../notebooks/data/processed/demand_forecast_model_comparison.csv")
 )
 
 feature_df = pd.read_csv(
-    "../notebooks/data/processed/xgboost_forecast_feature_importance.csv"
+    resolve_path("../notebooks/data/processed/xgboost_forecast_feature_importance.csv")
 )
+
 
 # ----------------------------------
 # TITLE

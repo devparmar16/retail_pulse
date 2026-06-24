@@ -8,21 +8,20 @@ st.set_page_config(
     layout="wide"
 )
 
-# -----------------------------
-# LOAD DATA
-# -----------------------------
+from utils.load_data import resolve_path
 
 segments_df = pd.read_csv(
-    "../notebooks/data/processed/customer_segments.csv"
+    resolve_path("../notebooks/data/processed/customer_segments.csv")
 )
 
 summary_df = pd.read_csv(
-    "../notebooks/data/processed/customer_segment_summary.csv"
+    resolve_path("../notebooks/data/processed/customer_segment_summary.csv")
 )
 
 interpretation_df = pd.read_csv(
-    "../notebooks/data/processed/customer_segment_interpretation.csv"
+    resolve_path("../notebooks/data/processed/customer_segment_interpretation.csv")
 )
+
 
 # -----------------------------
 # TITLE
